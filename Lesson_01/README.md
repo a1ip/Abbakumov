@@ -1,2 +1,2 @@
-- [Лекция №1](https://www.youtube.com/watch?v=enpPFqcIFj8)
-- [Лекция №2](https://www.youtube.com/watch?v=G-zRmitRaJM)
+- [Лекция №1](https://www.youtube.com/watch?v=enpPFqcIFj8&list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7)
+- [Лекция №2](https://www.youtube.com/watch?v=G-zRmitRaJM&list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7&index=2)
