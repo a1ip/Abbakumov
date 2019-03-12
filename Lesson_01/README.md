@@ -1,0 +1,2 @@
+- [Лекция №1](https://www.youtube.com/watch?v=enpPFqcIFj8)
+- [Лекция №2](https://www.youtube.com/watch?v=G-zRmitRaJM)
