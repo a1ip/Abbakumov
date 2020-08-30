@@ -1,0 +1,9 @@
+Monthly car sales in Quebec 1960-1968
+
+Time range	Jan 1960 – Dec 1968
+Monthly
+
+Source: Abraham & Ledolter (1983)
+Time Series Data Library
+
+

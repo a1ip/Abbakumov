@@ -1,0 +1,13 @@
+Dataset:  agedeath.dat
+Sources: William Guy: Journal of The Statistical Society of London 
+On the Duration of Life Among the English Gentry€ (March, 1846) Volume 9 pp 37-49
+On the Duration of Life of Sovereigns (March, 1847) Volume 10, pp. 62-69
+On the Duration of Life Among the Families of the Peerage and Baronetage of the UK (March,1845), Vol 
+8, pp69-77
+
+Description: Age at Death among members of the sovereignty, aristocracy, and gentry.
+
+Variables/Columns
+Category    1-4 
+Age at death       8-10
+Index within category    14-17
